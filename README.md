@@ -1,2 +1,2 @@
-# side-projects
-Collection of random things i've worked on 
+# Slot Machine
+Slot machine betting simulator
