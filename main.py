@@ -23,7 +23,7 @@ symbol_value = {
 
 def check_winnings(columns, lines, bet, values):
     for line in range(lines):
-        print()
+        print("test")
 
 def get_slotmachine_spin(rows, cols, symbols):
     all_symbols = []
